@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "map (3)",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "luas": 210.5, "nama ": "Bekasi", "populasi": "2530.00", "tahun": 2024, "gdp": 45.0 }, "geometry": { "type": "Point", "coordinates": [ 106.996313628246412, -6.233088650523811 ] } },
+{ "type": "Feature", "id": 1, "properties": { "luas": 2003.0, "nama ": "Depok", "populasi": "1900.00", "tahun": 2024, "gdp": 40.0 }, "geometry": { "type": "Point", "coordinates": [ 106.815844283733099, -6.406536416225848 ] } },
+{ "type": "Feature", "id": 2, "properties": { "luas": 3500.0, "nama ": "Bogor", "populasi": " 1100.00", "tahun": 2024, "gdp": 53.0 }, "geometry": { "type": "Point", "coordinates": [ 106.80675661674934, -6.609235501936951 ] } },
+{ "type": "Feature", "id": 3, "properties": { "luas": 6615.0, "nama ": "Jakarta", "populasi": "1100.00", "tahun": 2024, "gdp": 322.0 }, "geometry": { "type": "Point", "coordinates": [ 106.828748360561292, -6.177319286042945 ] } },
+{ "type": "Feature", "id": 4, "properties": { "luas": 164.5, "nama ": "Tangerang", "populasi": "1900.00", "tahun": 2024, "gdp": 105.0 }, "geometry": { "type": "Point", "coordinates": [ 106.638168483709251, -6.177621128487615 ] } },
+{ "type": "Feature", "id": 5, "properties": { "luas": 164.86, "nama ": "Tangerang selatan", "populasi": "1400.00", "tahun": 2024, "gdp": 75.0 }, "geometry": { "type": "Point", "coordinates": [ 106.708517126524612, -6.324175080713289 ] } }
+]
+}
